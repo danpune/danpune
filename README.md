@@ -1,10 +1,18 @@
-### Hi, I build small, fast, ad-free single-page trackers.
+### Hi, I build small, fast, ad-free single-page tools and trackers.
 
-No frameworks, no tracking, no logins — just a static page and a free data feed.
+No frameworks, no tracking, no logins — just a static page, and a free data feed where one is needed.
 
-- 🏆 [Tennis Grand Slam Tracker](https://danpune.github.io/tennis-slams-tracker/) — live draws, scores, rankings & countdowns for the four majors
-- ⚽ [World Cup 2026 Companion](https://danpune.github.io/worldcup2026/) — schedule in your timezone, live scores, goal alerts
-- 🏏 [India Cricket Tracker](https://danpune.github.io/india-cricket-tracker/) — Team India live matches, schedule & squads
+**Sports trackers**
+
+- 🏆 [Tennis Grand Slam Tracker](https://danpune.github.io/tennis-slams-tracker/) — draws, results, rankings & countdowns for all four majors
+- 🦁 [Premier League Tracker](https://danpune.github.io/epl-tracker/) — the table, all 380 fixtures & every kickoff in your timezone
+- 🐉 [Wrexham Tracker](https://danpune.github.io/wrexham-tracker/) — Wrexham AFC in the Championship: fixtures in your timezone, live table & match stats
+- 🏏 [India Cricket Tracker](https://danpune.github.io/india-cricket-tracker/) — Team India men's & women's live matches, schedule & results
+- ⚽ [World Cup 2026](https://danpune.github.io/worldcup2026/) — every result, the full knockout bracket & 96 years of World Cup history
+
+**Tools**
+
+- 🌍 [Time Zones](https://danpune.github.io/timezones/) — compare cities at a glance, with real sunrise, sunset & daylight; works offline
 - 🧘 [Pranayama Guide](https://danpune.github.io/pranayama-guide/) — a simple, immersive breathing guide
 
 Feedback and PRs welcome — open an issue on any repo above.
