@@ -15,4 +15,8 @@ No frameworks, no tracking, no logins — just a static page, and a free data fe
 - 🌍 [Time Zones](https://danpune.github.io/timezones/) — compare cities at a glance, with real sunrise, sunset & daylight; works offline
 - 🧘 [Pranayama Guide](https://danpune.github.io/pranayama-guide/) — a simple, immersive breathing guide
 
+**Guides**
+
+- 🪪 [Green Card Next Steps Checklist](https://danpune.github.io/greencard-checklist/) — what to do after your green card is approved: IDs, work, travel rules, taxes & the road to citizenship, with daily USCIS alerts
+
 Feedback and PRs welcome — open an issue on any repo above.
