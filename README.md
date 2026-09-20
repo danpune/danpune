@@ -1,6 +1,6 @@
 ### Hi, I build small, fast, ad-free single-page tools and trackers.
 
-No frameworks, no tracking, no logins — just a static page, and a free data feed where one is needed.
+No frameworks, no tracking, no logins — just a static page, a free data feed where one is needed, and one native Mac app.
 
 **Sports trackers**
 
@@ -13,6 +13,7 @@ No frameworks, no tracking, no logins — just a static page, and a free data fe
 **Tools**
 
 - 🌍 [Time Zones](https://danpune.github.io/timezones/) — compare cities at a glance, with real sunrise, sunset & daylight; works offline
+- 🖥️ [Time Zones for Mac](https://github.com/danpune/timezones-mac) — the same cities in your Mac's menu bar, with weather and the hours everyone is awake; free, and it updates itself
 - 🧘 [Pranayama Guide](https://danpune.github.io/pranayama-guide/) — a simple, immersive breathing guide
 
 **Guides**
